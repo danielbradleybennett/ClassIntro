@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.deps.json
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.dll
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.pdb
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.dll
+/Users/danielbennett/workspace/csharp/exercises/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.pdb
